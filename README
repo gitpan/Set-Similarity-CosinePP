@@ -2,14 +2,6 @@ NAME
     Set::Similarity::CosinePP - Cosine similarity for sets pure Perl vector
     implementation
 
-    <a href="https://travis-ci.org/wollmers/Set-Similarity-CosinePP"><img
-    src="https://travis-ci.org/wollmers/Set-Similarity-CosinePP.png"
-    alt="Set-Similarity-CosinePP"></a> <a
-    href='https://coveralls.io/r/wollmers/Set-Similarity-CosinePP?branch=mas
-    ter'><img
-    src='https://coveralls.io/repos/wollmers/Set-Similarity-CosinePP/badge.p
-    ng?branch=master' alt='Coverage Status' /></a>
-
 SYNOPSIS
      use Set::Similarity::CosinePP;
  

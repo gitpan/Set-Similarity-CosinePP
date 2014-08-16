@@ -5,7 +5,7 @@ use warnings;
 
 use parent 'Set::Similarity';
 
-our $VERSION = '0.009';
+our $VERSION = '0.010';
 
 sub from_sets {
   my ($self, $set1, $set2) = @_;
@@ -84,7 +84,6 @@ __END__
 Set::Similarity::CosinePP - Cosine similarity for sets pure Perl vector implementation
 
 =for html
-
 <a href="https://travis-ci.org/wollmers/Set-Similarity-CosinePP"><img src="https://travis-ci.org/wollmers/Set-Similarity-CosinePP.png" alt="Set-Similarity-CosinePP"></a>
 <a href='https://coveralls.io/r/wollmers/Set-Similarity-CosinePP?branch=master'><img src='https://coveralls.io/repos/wollmers/Set-Similarity-CosinePP/badge.png?branch=master' alt='Coverage Status' /></a>
 
