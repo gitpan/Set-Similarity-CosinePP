@@ -22,12 +22,12 @@ no_index:
     - eg
     - examples
 requires:
-  Set::Similarity: '0.009'
+  Set::Similarity: '0.022'
   perl: '5.006000'
 resources:
   bugtracker: https://github.com/wollmers/Set-Similarity-CosinePP/issues
   homepage: https://github.com/wollmers/Set-Similarity-CosinePP
   repository: https://github.com/wollmers/Set-Similarity-CosinePP.git
-version: '0.010'
+version: '0.011'
 x_contributors:
   - 'Helmut Wollmersdorfer <helmut@wollmersdorfer.at>'
